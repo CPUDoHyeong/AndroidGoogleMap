@@ -31,8 +31,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
-        // 구글 맵 객체를 불러온다.dd;
-        //
+        // 구글 맵 객체를 불러온다
         map = googleMap;
 
         // 서울 여의도에 대한 위치 설정
